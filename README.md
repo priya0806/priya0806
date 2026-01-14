@@ -86,9 +86,4 @@ I care about:
 👉 https://github.com/priya0806
 
 📧 Email  
-👉 priyakeshri78@gmail.com  
-
----
-
-⭐ If this portfolio helped you understand my work, feel free to star the repo!
-<img width="1460" height="3534" alt="image" src="https://github.com/user-attachments/assets/eb5ecd06-e174-4ec5-a0e7-f97411c3675f" />
+👉 priyakeshri78@gmail.com
