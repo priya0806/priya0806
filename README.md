@@ -25,13 +25,11 @@ I care about:
 ## 🧩 What I Work With
 
 ### ☁️ Salesforce Platform
-⚡ Apex • ✨ Lightning Web Components • 🔁 Flows  
-🔍 SOQL • 🌐 Experience Cloud  
-📊 Sales Cloud • 🛠️ Service Cloud  
+⚡ Apex • ✨ Lightning Web Components • 🔁 Flows  🔍 SOQL
+• 🌐 Experience Cloud  📊 Sales Cloud • 🛠️ Service Cloud  
 
 ### 🖥️ Backend Engineering
-☕ Java • 🐍 Python • 🌿 Node.js  
-🔗 REST APIs • 🗄️ SQL  
+☕ Java • 🐍 Python • 🌿 Node.js  🔗 REST APIs • 🗄️ SQL  
 
 ### ⚙️ DevOps & Tooling
 🧠 Git & GitHub • 🚦 CI/CD  
@@ -61,7 +59,7 @@ I care about:
 ## 🎓 Education
 
 🎓 **Master of Science in Computer Science**  
-📍 California State University, Fullerton  
+📍 California State University, Fullerton, USA  
 
 🎓 **Bachelor of Technology in Computer Science**  
 📍 Sinhgad Institute of Technology, India  
@@ -80,10 +78,10 @@ I care about:
 ## 🤝 Let’s Connect
 
 💼 LinkedIn  
-👉 https://www.linkedin.com/in/priya-keshri/
+👉 (https://www.linkedin.com/in/priya-keshri/)
 
 💻 GitHub  
-👉 https://github.com/priya0806
+👉 (https://github.com/priya0806)
 
 📧 Email  
 👉 priyakeshri78@gmail.com
