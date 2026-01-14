@@ -2,7 +2,9 @@
 <h3 align="center">Software Developer | Salesforce & Backend Engineer</h3>
 
 <p align="center">
-  🌐 [Portfolio](https://priya0806.github.io/priya-portfolio/)   💼 [LinkedIn](https://www.linkedin.com/in/priya-keshri-/)   💻 [GitHub](https://github.com/priya0806)
+🌐 [Portfolio](https://priya0806.github.io/priya-portfolio/)  •  
+💼 [LinkedIn](https://www.linkedin.com/in/priya-keshri/)  •  
+💻 [GitHub](https://github.com/priya0806)
 </p>
 
 ---
