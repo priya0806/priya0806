@@ -2,10 +2,11 @@
 <h3 align="center">Software Developer | Salesforce & Backend Engineer</h3>
 
 <p align="center">
-🌐 [Portfolio](https://priya0806.github.io/priya-portfolio/)  •  
-💼 [LinkedIn](https://www.linkedin.com/in/priya-keshri/)  •  
-💻 [GitHub](https://github.com/priya0806)
-</p>
+  <a href="https://priya0806.github.io/priya-portfolio/">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/priya-keshri-/">💼 LinkedIn</a> •
+  <a href="https://github.com/priya0806">💻 GitHub</a>
+</p><img width="1014" height="190" alt="image" src="https://github.com/user-attachments/assets/2725c88b-287c-4ecc-ada4-3835042088d5" />
+
 
 ---
 
