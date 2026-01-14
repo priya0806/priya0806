@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://priya0806.github.io/priya-portfolio/">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/priya-keshri/">💼 LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/priya-keshri-">💼 LinkedIn</a> •
   <a href="https://github.com/priya0806">💻 GitHub</a>
 </p>
 
@@ -78,7 +78,7 @@ I care about:
 ## 🤝 Let’s Connect
 
 💼 LinkedIn  
-👉 (https://www.linkedin.com/in/priya-keshri/)
+👉 (https://www.linkedin.com/in/priya-keshri-/)
 
 💻 GitHub  
 👉 (https://github.com/priya0806)
