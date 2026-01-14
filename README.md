@@ -2,8 +2,8 @@
 <h3 align="center">Software Developer | Salesforce & Backend Engineer</h3>
 
 <p align="center">
-  <a href="https://priya0806.github.io/priya-portfolio/">🌐 Portfolio</a> 
-  <a href="https://www.linkedin.com/in/priya-keshri-">💼 LinkedIn</a> 
+  <a href="https://priya0806.github.io/priya-portfolio/">🌐 Portfolio</a>  
+  <a href="https://www.linkedin.com/in/priya-keshri-">💼 LinkedIn</a>  
   <a href="https://github.com/priya0806">💻 GitHub</a>
 </p>
 
